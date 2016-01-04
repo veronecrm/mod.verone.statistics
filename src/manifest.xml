@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="module">
+
+    <!-- UID of package. -->
+    <uid>mod.verone.statistics</uid>
+    <!-- Package name. -->
+    <name>Statistics</name>
+    <!-- Package version. -->
+    <version>0.1.0</version>
+    <!-- Package release date. -->
+    <relase-date>2016.01.04</relase-date>
+    <!-- Package license. -->
+    <license>GPLv3</license>
+    <!-- Author details. -->
+    <author>
+        <name>Adam Banaszkiewicz</name>
+        <url>http://www.veronecrm.com</url>
+    </author>
+
+</package>
